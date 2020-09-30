@@ -95,11 +95,6 @@ class App extends Component {
           </div>
         </form>
 
-
-
-
-
-        
         <ul>
         {
           //display journals here
@@ -115,8 +110,6 @@ class App extends Component {
         }
         </ul>
 
-        
-        
         <footer>
           <p className="footerParagraph">Created by Anthony Galea at Juno College</p>
         </footer>
