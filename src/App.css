@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,7 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
 /* GENERAL */
 
@@ -70,9 +70,9 @@ h1 {
 .journalArea {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 75%;
   height: auto;
-  margin: 5%;
+  margin-bottom: 3%;
 } 
 
 textarea {
@@ -100,9 +100,9 @@ li {
   padding: 2% 2%;
 }
 
-/* button:hover {
-  background-color: #f44336;
-  color: black; */
+ul {
+  padding: 0;
+}
 
 /* FOOTER */
 
@@ -138,14 +138,18 @@ li {
 
 /* Landscape phones and down */
 @media (max-width: 480px) {
-  
+
 
   .journalArea {
     display: flex;
     flex-direction: column;
-    width: 15rem;
-    height: 15rem;
+    width: 20rem;
+    height: auto;
     margin: 5%;
   } 
+
+  textarea {
+    font-size: 1rem;
+  }
 
 }
