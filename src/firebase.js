@@ -1,9 +1,6 @@
-import firebase from 'firebase/app';    //firebase
-import 'firebase/database'; //firebase database
+import firebase from 'firebase/app';  
+import 'firebase/database'; 
 
-// copy and pasted from your Firebase Realtime Database
-// Your web app's Firebase configuration
-//do not paste script tags from firebase config
 const config = {
     apiKey: "AIzaSyBrKuDBFAcon5GaFLkuOjEVkuKEDskVZ90",
     authDomain: "personal-journal-c0bd8.firebaseapp.com",
@@ -13,8 +10,7 @@ const config = {
     messagingSenderId: "299999700647",
     appId: "1:299999700647:web:d1e2e927ef461924025d82"
 };
-// Initialize Firebase
+
 firebase.initializeApp(config);
 
-
-export default firebase;    //export becuase it is a module
+export default firebase;
