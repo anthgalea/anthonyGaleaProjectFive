@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/anthonyGaleaProjectFive/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/anthonyGaleaProjectFive/static/js/main.473a6fcd.chunk.js",
-    "main.js.map": "/anthonyGaleaProjectFive/static/js/main.473a6fcd.chunk.js.map",
+    "main.css": "/anthonyGaleaProjectFive/static/css/main.98106229.chunk.css",
+    "main.js": "/anthonyGaleaProjectFive/static/js/main.fe132758.chunk.js",
+    "main.js.map": "/anthonyGaleaProjectFive/static/js/main.fe132758.chunk.js.map",
     "runtime-main.js": "/anthonyGaleaProjectFive/static/js/runtime-main.b85a5b37.js",
     "runtime-main.js.map": "/anthonyGaleaProjectFive/static/js/runtime-main.b85a5b37.js.map",
     "static/js/2.5db2b704.chunk.js": "/anthonyGaleaProjectFive/static/js/2.5db2b704.chunk.js",
     "static/js/2.5db2b704.chunk.js.map": "/anthonyGaleaProjectFive/static/js/2.5db2b704.chunk.js.map",
     "index.html": "/anthonyGaleaProjectFive/index.html",
-    "precache-manifest.aa556083350260d7d8a8a63b730b3df6.js": "/anthonyGaleaProjectFive/precache-manifest.aa556083350260d7d8a8a63b730b3df6.js",
+    "precache-manifest.5c377f765fd42dc33d9ae51c80859336.js": "/anthonyGaleaProjectFive/precache-manifest.5c377f765fd42dc33d9ae51c80859336.js",
     "service-worker.js": "/anthonyGaleaProjectFive/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/anthonyGaleaProjectFive/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.98106229.chunk.css.map": "/anthonyGaleaProjectFive/static/css/main.98106229.chunk.css.map",
     "static/js/2.5db2b704.chunk.js.LICENSE.txt": "/anthonyGaleaProjectFive/static/js/2.5db2b704.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b85a5b37.js",
     "static/js/2.5db2b704.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.473a6fcd.chunk.js"
+    "static/css/main.98106229.chunk.css",
+    "static/js/main.fe132758.chunk.js"
   ]
 }
