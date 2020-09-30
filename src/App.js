@@ -88,14 +88,14 @@ class App extends Component {
 
 
       {/*form for users to write a journal and store the input in Firebase realtime database */}
-      <form action="submit">
+      <form action="submit" className="wrapper">
           <div className="journalArea">
             <textarea id="write" name="write" rows="20" cols="50" placeholder="What's on your mind?" onChange={this.handleChange} value={this.state.userInput}></textarea>
             <button onClick={this.handleClick}>Log your journal</button>
           </div>
         </form>
 
-        <ul>
+        <ul className="wrapper">
         {
           //display journals here
           this.state.journals.map((journal) => {
